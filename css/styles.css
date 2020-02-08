@@ -34,3 +34,24 @@ body    {
     border-color: chartreuse;
 }
 
+.header-image {
+    width: 100%;
+    height: 710px;
+    background: url("../../photography/imgs/photo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
