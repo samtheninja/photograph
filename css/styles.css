@@ -50,6 +50,23 @@ body    {
     padding: 30px;
 }
 
+.contact    {
+    height: 300px;
+    width: 100%;
+    padding: 20px;
+}
+
+.contact form input[type=text], input[type=email] {
+    width: 500px;
+    outline: none;
+    border: 0px;
+    margin: 10px;
+    border-bottom: 1px solid black;
+}
+
+.contact form a input[type=submit]  {
+    width: 500px;
+}
 
 
 
