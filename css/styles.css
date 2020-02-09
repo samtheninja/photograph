@@ -74,6 +74,27 @@ body    {
     background: linear-gradient(grey, lightgray);
 }
 
+.footer .footer-links   {
+    width: 100%;
+    padding: 30px;
+}
+
+.footer .footer-links ul {
+    list-style-type: none;
+
+}
+
+.footer .footer-links ul li{
+    display: inline;
+    margin-right: 10px;
+}
+
+.footer .footer-links ul li a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
 
 
 
